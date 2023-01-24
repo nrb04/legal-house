@@ -2,6 +2,7 @@ body {
     font-family: 'EB+Garamond', sans-serif !important;
   }
 
+
   .banner{
     font-family: 'EB+Garamond', sans-serif !important;
 
@@ -19,3 +20,11 @@ background-color: #B68C5A !important;
     text-decoration: none  !important;
     text-decoration-color:#ffffff !important; 
   }
+  .card:hover {
+    opacity: 0.8 ;
+    box-shadow:5px 10px #b68d5a62;
+  }
+
+  .alternate-font {
+    font-family:"EB+Garamond"
+ }
